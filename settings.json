@@ -6,9 +6,11 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "justForFunnnn.aternos.me",
+    "port": 49795
+
+,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -82,7 +84,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
